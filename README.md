@@ -38,12 +38,13 @@
   - BGM、SE探し(N, T)
   - BGM、SE挿入(T)
   - 残りのテキスト挿入(T)
-  - STAGEを参考にした残りのSTAGE作成
+  - STAGE1を参考にした残りのSTAGE作成
     - epilogue完成 9/1-9/12
     - STAGE2完成 9/13-9/26
     - STAGE3完成 9/27-10/03
 
 10/1-10/31
+  - 残りのSTAGE作成
     - STAGE4完成 10/04-10/17
     - STAGE5完成 10/18-10/31
 
