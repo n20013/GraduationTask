@@ -14,8 +14,8 @@
  - [スケジュール](https://trello.com/b/fROV4uqI/%E6%98%9F%E7%A9%BA%E8%A6%B3%E6%B8%AC%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E9%83%A8)
  - [企画書]()
  - [仕様書](https://docs.google.com/spreadsheets/d/1dfRqiay7tzD_MrkfCeWF9kvlHwP0kH4PREqZigumep0/edit#gid=0)
- - [ソース]
- - [プレゼンテーション]
+ - [ソース]()
+ - [プレゼンテーション](https://docs.google.com/presentation/d/10JXTcoTx6jO94Im2F9egHoDuBH3CWEm60PI8h_YQrUI/edit#slide=id.gda14a19c68_0_0)
 
 ### おおまかな流れ
 1. 仕様書作成
